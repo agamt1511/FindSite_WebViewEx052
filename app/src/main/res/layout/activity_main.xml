@@ -23,7 +23,7 @@
                 android:id="@+id/et"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
-                android:layout_weight="50"
+                android:layout_weight="80"
                 android:ems="10"
                 android:gravity="start|top"
                 android:hint="TypeURL"
@@ -33,7 +33,7 @@
                 android:id="@+id/btn"
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
-                android:layout_weight="50"
+                android:layout_weight="20"
                 android:onClick="GO"
                 android:text="GO"
                 android:windowSoftInputMode="adjustPan" />
